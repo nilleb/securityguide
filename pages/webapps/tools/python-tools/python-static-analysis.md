@@ -12,7 +12,7 @@ Its [README.rst](https://github.com/openstack/bandit/blob/master/README.rst) is 
 
 ```
 pip install bandit
-f```
+```
 
 ### Usage
 
